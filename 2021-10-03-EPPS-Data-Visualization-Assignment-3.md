@@ -56,7 +56,7 @@ The result is shown in the following figure:
 # 3. How about with ggplot2? (use tidyverse package)
 With ggplot2, we could plot the four OLS regression models and then use ggarrange() function in ggpubr package to combine the four plots.
 The result is as follows:
-![images](https://MinShiMia.github.io/images/40LSggplot.png)
+![images](https://MinShiMia.github.io/images/4OLSggplot.png)
 
 
 
