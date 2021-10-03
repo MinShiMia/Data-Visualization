@@ -9,10 +9,10 @@ grammar, and data structures.
 
 ## Plots with different colors:
 ### Rplot-goldenrod2
-[]
+![images](https://MinShiMia.github.io/images/Rplot-goldenrod2.pdf)
 
 ### Rplot-forestgreen
-[]
+![images](https://MinShiMia.github.io/images/Rplot-forestgreen.pdf)
 
 ## Write critique on a chart in published work (book/article/news website)
 I pick a figure from a published piece called *Studying the impact of isis propaganda campaigns (2021)* written by Mitts, T., Phillips, G., 
@@ -20,7 +20,7 @@ and Walter, B. I would like to critique Figure 1 which presents the result of th
 research question that how the usage of social media platform by ISIS affect its audience. The authors' assumption is that in the absence of a 
 propaganda dissemination, exposed and non-exposed users would follow parallel trends in their online support for the Islamic State.
 
-[]
+![images](https://MinShiMia.github.io/images/MittsFigure1.png)
 
 As shown in the Figure, overtime trends in pro-ISIS rhetoric by the two groups were parallel in the pre- treatment period. Panel (A) shows 
 the hourly average of pro-ISIS content by group in the seven days before propaganda disseminations, and Panel (B) zooms in to show the trends 
