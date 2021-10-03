@@ -9,10 +9,10 @@ grammar, and data structures.
 
 ## Plots with different colors:
 ### Rplot-goldenrod2
-![images](https://MinShiMia.github.io/images/Rplot-goldenrod2.pdf)
+![images](https://MinShiMia.github.io/images/Rplot-goldenrod2.png)
 
 ### Rplot-forestgreen
-![images](https://MinShiMia.github.io/images/Rplot-forestgreen.pdf)
+![images](https://MinShiMia.github.io/images/Rplot-forestgreen.png)
 
 ## Write critique on a chart in published work (book/article/news website)
 I pick a figure from a published piece called *Studying the impact of isis propaganda campaigns (2021)* written by Mitts, T., Phillips, G., 
