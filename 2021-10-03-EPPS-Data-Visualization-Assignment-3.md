@@ -7,8 +7,8 @@ but the last three distributions are not meet the basic OLS assumptions, includi
 2) uncorrelated errors, 3) no multicollinearity, 4) x fixed in repeated samples. This shows us that data visulization 
 3) is very necessary for us to judge whether a regression model represents the distribution correctly or not besides 
 4) and we should combine both regression statistical results and data visualizations in our research.
-[]
-[]
+![images](https://MinShiMia.github.io/images/4OLS_Table.png)
+![images](https://MinShiMia.github.io/images/Anscombe_4_Regression.png)
 
 ## b. Compare different ways to create the plots (e.g. changing colors, line types, plot characters)
 There are basic ways and more fancy ways to creat plots.
@@ -50,13 +50,13 @@ we could add themes, x axis, y axis in the basic plot() function to finetune the
 par() function.
 
 The result is shown in the following figure:
-[]
+![images](https://MinShiMia.github.io/images/BasicPlots.png)
 
 
 # 3. How about with ggplot2? (use tidyverse package)
 With ggplot2, we could plot the four OLS regression models and then use ggarrange() function in ggpubr package to combine the four plots.
 The result is as follows:
-[]
+![images](https://MinShiMia.github.io/images/40LSggplot.png)
 
 
 
