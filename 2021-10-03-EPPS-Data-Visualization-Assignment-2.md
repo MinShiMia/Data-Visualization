@@ -4,8 +4,10 @@ i. par()： The size and location of the diﬀerent regions are controlled eithe
 In the base graphics system, every page is split up into three main regions: the outer margins, the current ﬁgure region, and the current plot region 
 (as shown in Figure 3.1 and Figure 3.2).
 
-[]
-[]
+![images](https://MinShiMia.github.io/images/PlotMargin1.png)
+
+![images](https://MinShiMia.github.io/images/PlotMargin2.png)
+
 
 Examples:
 1) Setting the parameter (3 rows by 2 cols)
