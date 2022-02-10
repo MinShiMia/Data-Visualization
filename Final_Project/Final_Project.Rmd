@@ -1,6 +1,5 @@
 ---
-title: 'EPPS 6356 Data Visualization Final Project'
-subtitle: 'What Factors Affect People’s National Happiness Score?'
+title: 'What Factors Affect People’s National Happiness Score?'
 author: "Min Shi"
 date: "December 7 2021"
 output: 
